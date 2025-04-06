@@ -56,8 +56,11 @@ flutter run
 - `POST /predict/` - Predicts the sign language
 
 ## 📝 Contact
-For queries, contact: kanak.tech@gmail.com
-Youtube-- https://www.youtube.com/@KNAK-4-tech
-GitHub-- https://github.com/knak-4-tech
-LinkedIn-- https://www.linkedin.com/in/knak-4-tech/
-LinkTree-- https://linktr.ee/knak_4_tech
+```bash
+#### For queries contact 
+• Email:    kanak.tech@gmail.com
+• Youtube:  https://www.youtube.com/@KNAK-4-tech
+• GitHub:   https://github.com/knak-4-tech
+• LinkedIn: https://www.linkedin.com/in/knak-4-tech/
+• LinkTree: https://linktr.ee/knak_4_tech
+```
