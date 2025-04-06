@@ -23,13 +23,14 @@ sign_language_app/
 │   │   ├── bsl_transformer.pth                      # Trained model (generated after training)
 │   │   └── isl_transformer.pth                      # Trained model (generated after training)
 │   ├── preprocessing.py                             # Image-based landmark extraction and tensor saving
-│   └── training.py                                  # Transformer model training logic
+│   ├── training.py                                  # Transformer model training logic
+│   └── ...                                          # Future development
 ├── flutter_app/                                     # Flutter App
 │   ├── android/                                     # Android devices specification
 │   ├── assets/                                      # Static assets like images
 │   │   └── images/                                  # Image files (PNG, JPG, etc.)
 │   │       └── ...
-│   ├── build/                                       # Stores auto-generated build files created during app compilation
+│   ├── build/                                       # Stores auto generated build files created during app compilation
 │   ├── ios/                                         # IOS devices specification
 │   ├── lib/                                         # Flutter Library
 │   │   ├── main.dart                                # Main Flutter App
@@ -155,9 +156,9 @@ Press `Q` to quit the video stream window.
 
 #### **For queries contact**
 ```bash
-•  Email:     kanak.tech@gmail.com
-•  YouTube:   https://www.youtube.com/@KNAK-4-tech
-•  GitHub:    https://github.com/knak-4-tech
+•  Email:  kanak.tech@gmail.com
+•  Youtube:  https://www.youtube.com/@KNAK-4-tech
+•  GitHub:  https://github.com/knak-4-tech
 •  LinkedIn:  https://www.linkedin.com/in/knak-4-tech/
 •  LinkTree:  https://linktr.ee/knak_4_tech
 ```
